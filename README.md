@@ -1,6 +1,7 @@
 # class08Lab- Wireframe
 
 Assignment Goals:
+
 1).Working top to bottom in the document, put elements into place with CSS, using the structure of the HTML to create selectors wherever it is possible. Seek to limit use of classes and IDs to only where they are needed.
 
 2).Apply color, backgrounds, borders, text styling, etc., to the specifications of the design.
