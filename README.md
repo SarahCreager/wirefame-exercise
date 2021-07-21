@@ -1,1 +1,1 @@
-# wirefame-exercise
+# class08LabAssets
